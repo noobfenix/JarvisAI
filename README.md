@@ -1,8 +1,11 @@
 Jarvis AI Assistant
+
 Overview
+
 Jarvis AI Assistant is a voice-activated personal assistant that uses OpenAI's GPT-3.5 model for intelligent interactions. It performs tasks such as recognizing speech, responding to queries, opening websites, playing music, and announcing the time. This project combines advanced natural language processing with practical utilities for a seamless user experience.
 
 Features
+
 Voice Recognition: Captures and interprets user commands via microphone.
 Intelligent Responses: Generates human-like responses using GPT-3.5.
 Web Browsing: Opens YouTube, Wikipedia, Google, and more on command.
